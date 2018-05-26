@@ -1,1 +1,1 @@
-This project is about modeling a borrower’s credit risk.
+This project is about creating a model which tell us if the borrower would be able to pay the loan back or not.
